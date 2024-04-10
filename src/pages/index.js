@@ -4,7 +4,7 @@ import Card from "../components/card/index";
 
 // import { Inter, Poppins, Lalezar } from "next/font/google";
 
-import { Wrapper } from "./styles";
+import { Wrapper } from "../styles/styles";
 
 // const inter = Inter({ weight: "400", subsets: ["latin"], display: "swap" });
 // const poppins = Poppins({
